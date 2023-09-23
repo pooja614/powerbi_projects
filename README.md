@@ -3,8 +3,8 @@
 ## Loan Acceptance Analysis 
 
 * The data is loaded from kaggle.
-●	The project aims at investigating the factors responsible for personal loan acceptance by the bank customers. 
-●	Insights are developed to aid targeted marketing of personal loan scheme. 
+* The project aims at investigating the factors responsible for personal loan acceptance by the bank customers. 
+* Insights are developed to aid targeted marketing of personal loan scheme. 
 
 ![ln1](https://github.com/pooja614/powerbi_projects/assets/69869583/86289c0b-0b72-4c83-9c89-b4a2e48dc598) 
 
